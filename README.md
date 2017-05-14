@@ -2,4 +2,4 @@
 
 ## What I Learned At DockerCon17 Slide Deck
 
-In progress. Built with Reveal.js
+http://slides.com/benjamminredden/what-i-learned-at-dockercon17
